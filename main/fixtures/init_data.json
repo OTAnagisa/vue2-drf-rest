@@ -1,0 +1,1570 @@
+[
+	{
+		"model": "main.user",
+		"pk": "112c10c3-398f-440d-8235-7ef8c7791863",
+		"fields": {
+			"created_at": "2023-07-02T10:21:43.680Z",
+			"updated_at": "2023-07-02T10:21:43.680Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"email": "asahina-ko@nextinnovation.co.jp",
+			"last_name": "朝比奈",
+			"first_name": "恒介",
+			"join_on": "2011-04-01",
+			"retirement_on": null
+		}
+	},
+	{
+		"model": "main.user",
+		"pk": "25292fa9-9d3b-4ece-a40e-6a112759435b",
+		"fields": {
+			"created_at": "2023-07-02T10:21:43.680Z",
+			"updated_at": "2023-07-02T10:21:43.680Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"email": "yasuoka-mi@nextinnovation.co.jp",
+			"last_name": "安岡",
+			"first_name": "倫哉",
+			"join_on": "2020-08-01",
+			"retirement_on": null
+		}
+	},
+	{
+		"model": "main.user",
+		"pk": "292ed8ad-b4cf-4c62-901c-e29279ec1da5",
+		"fields": {
+			"created_at": "2023-07-02T10:21:43.680Z",
+			"updated_at": "2023-07-02T10:21:43.680Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"email": "yamagami-yo@nextinnovation.co.jp",
+			"last_name": "山上",
+			"first_name": "芳行",
+			"join_on": "2011-04-01",
+			"retirement_on": null
+		}
+	},
+	{
+		"model": "main.user",
+		"pk": "3431bd07-e97e-4212-b1b7-716737f54f07",
+		"fields": {
+			"created_at": "2023-07-02T10:21:43.680Z",
+			"updated_at": "2023-07-02T10:21:43.680Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"email": "hujikawa-ma@nextinnovation.co.jp",
+			"last_name": "藤川",
+			"first_name": "真沙子",
+			"join_on": "2018-04-01",
+			"retirement_on": "2020-03-29"
+		}
+	},
+	{
+		"model": "main.user",
+		"pk": "388baf10-0280-43ee-9760-6e001860d991",
+		"fields": {
+			"created_at": "2023-07-02T10:21:43.680Z",
+			"updated_at": "2023-07-02T10:21:43.680Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"email": "ono-ha@nextinnovation.co.jp",
+			"last_name": "小野",
+			"first_name": "遙香",
+			"join_on": "2015-04-01",
+			"retirement_on": "2017-03-29"
+		}
+	},
+	{
+		"model": "main.user",
+		"pk": "3a7810d9-16b1-4d75-8848-134dc9d2e3c9",
+		"fields": {
+			"created_at": "2023-07-02T10:21:43.680Z",
+			"updated_at": "2023-07-02T10:21:43.680Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"email": "hueki-ta@nextinnovation.co.jp",
+			"last_name": "笛木",
+			"first_name": "匡正",
+			"join_on": "2018-04-01",
+			"retirement_on": "2013-02-22"
+		}
+	},
+	{
+		"model": "main.user",
+		"pk": "688bac75-bc91-4344-a6a4-a0a647f3c35a",
+		"fields": {
+			"created_at": "2023-07-02T10:21:43.680Z",
+			"updated_at": "2023-07-02T10:21:43.680Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"email": "yoshida-ka@nextinnovation.co.jp",
+			"last_name": "吉田",
+			"first_name": "一雄",
+			"join_on": "2018-04-01",
+			"retirement_on": null
+		}
+	},
+	{
+		"model": "main.user",
+		"pk": "6faf74a2-2e3a-477e-913f-d509afe91ba1",
+		"fields": {
+			"created_at": "2023-07-02T10:21:43.680Z",
+			"updated_at": "2023-07-02T10:21:43.680Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"email": "nogi-yu@nextinnovation.co.jp",
+			"last_name": "乃木",
+			"first_name": "湧太",
+			"join_on": "2018-04-01",
+			"retirement_on": "2015-06-15"
+		}
+	},
+	{
+		"model": "main.user",
+		"pk": "70491804-ee4e-4f5f-8eb1-41b955a62744",
+		"fields": {
+			"created_at": "2023-07-02T10:21:43.680Z",
+			"updated_at": "2023-07-02T10:21:43.680Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"email": "asahina-yo@nextinnovation.co.jp",
+			"last_name": "朝比奈",
+			"first_name": "燿子",
+			"join_on": "2023-04-01",
+			"retirement_on": null
+		}
+	},
+	{
+		"model": "main.user",
+		"pk": "77d4dfc7-9d4b-4c6f-ab7f-c6d25d823c04",
+		"fields": {
+			"created_at": "2023-07-02T10:21:43.680Z",
+			"updated_at": "2023-07-02T10:21:43.680Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"email": "tono-ak@nextinnovation.co.jp",
+			"last_name": "遠野",
+			"first_name": "秋洋",
+			"join_on": "2011-04-01",
+			"retirement_on": "2017-03-29"
+		}
+	},
+	{
+		"model": "main.user",
+		"pk": "846506b6-cdc8-4ccf-bbfd-28772ac2b385",
+		"fields": {
+			"created_at": "2023-07-02T10:21:43.680Z",
+			"updated_at": "2023-07-02T10:21:43.680Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"email": "natui-ma@nextinnovation.co.jp",
+			"last_name": "夏井",
+			"first_name": "真琴",
+			"join_on": "2022-07-01",
+			"retirement_on": null
+		}
+	},
+	{
+		"model": "main.user",
+		"pk": "88e4780c-dc7e-4359-89e3-648292daebeb",
+		"fields": {
+			"created_at": "2023-07-02T10:21:43.680Z",
+			"updated_at": "2023-07-02T10:21:43.680Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"email": "ogawa-sa@nextinnovation.co.jp",
+			"last_name": "小川",
+			"first_name": "智史",
+			"join_on": "2015-06-01",
+			"retirement_on": null
+		}
+	},
+	{
+		"model": "main.user",
+		"pk": "9f0654c3-3f68-4ae0-b190-61fa320789f0",
+		"fields": {
+			"created_at": "2023-07-02T10:21:43.680Z",
+			"updated_at": "2023-07-02T10:21:43.680Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"email": "tateishi-ri@nextinnovation.co.jp",
+			"last_name": "立石",
+			"first_name": "リサ",
+			"join_on": "2018-04-01",
+			"retirement_on": null
+		}
+	},
+	{
+		"model": "main.user",
+		"pk": "a9766de1-83be-461c-984c-e9dbe147b1a6",
+		"fields": {
+			"created_at": "2023-07-02T10:21:43.680Z",
+			"updated_at": "2023-07-02T10:21:43.680Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"email": "hosoki-ri@nextinnovation.co.jp",
+			"last_name": "細木",
+			"first_name": "理一",
+			"join_on": "2016-11-01",
+			"retirement_on": null
+		}
+	},
+	{
+		"model": "main.user",
+		"pk": "c4d06dc6-eb47-484e-8d20-cd42e9a2258e",
+		"fields": {
+			"created_at": "2023-07-02T10:21:43.680Z",
+			"updated_at": "2023-07-02T10:21:43.680Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"email": "miyamae-to@nextinnovation.co.jp",
+			"last_name": "宮前",
+			"first_name": "朋華",
+			"join_on": "2018-04-01",
+			"retirement_on": null
+		}
+	},
+	{
+		"model": "main.user",
+		"pk": "dbbff5cd-64ef-4036-928c-57eb0a26a1f5",
+		"fields": {
+			"created_at": "2023-07-02T10:21:43.680Z",
+			"updated_at": "2023-07-02T10:21:43.680Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"email": "hyuga-ta@nextinnovation.co.jp",
+			"last_name": "日向",
+			"first_name": "徹",
+			"join_on": "2011-04-01",
+			"retirement_on": null
+		}
+	},
+	{
+		"model": "main.user",
+		"pk": "de610f8c-d5e9-4f1e-b4ab-db5cbcbdecbe",
+		"fields": {
+			"created_at": "2023-07-02T10:21:43.680Z",
+			"updated_at": "2023-07-02T10:21:43.680Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"email": "sakaguchi-te@nextinnovation.co.jp",
+			"last_name": "坂口",
+			"first_name": "哲也",
+			"join_on": "2015-04-01",
+			"retirement_on": "2022-08-20"
+		}
+	},
+	{
+		"model": "main.user",
+		"pk": "df6395ca-f8d1-4e05-a1b9-8f843ed35ed9",
+		"fields": {
+			"created_at": "2023-07-02T10:21:43.680Z",
+			"updated_at": "2023-07-02T10:21:43.680Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"email": "kuga-yu@nextinnovation.co.jp",
+			"last_name": "久賀",
+			"first_name": "友紀",
+			"join_on": "2016-04-01",
+			"retirement_on": "2018-09-10"
+		}
+	},
+	{
+		"model": "main.newscategory",
+		"pk": "67dafb4e-a55f-453c-b7f7-eeb41707b981",
+		"fields": {
+			"created_at": "2023-07-02T11:15:29.664Z",
+			"updated_at": "2023-07-02T11:15:29.664Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"name": "Press Releases",
+			"order": 2,
+			"code": 5
+		}
+	},
+	{
+		"model": "main.newscategory",
+		"pk": "7519c654-04af-4bdb-869a-84740cbd0d8f",
+		"fields": {
+			"created_at": "2023-07-02T11:15:29.664Z",
+			"updated_at": "2023-07-02T11:15:29.664Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"name": "News",
+			"order": 1,
+			"code": 1
+		}
+	},
+	{
+		"model": "main.newscategory",
+		"pk": "85facf8d-2a3d-49b5-8bd9-690f1a2ca178",
+		"fields": {
+			"created_at": "2023-07-02T11:15:29.664Z",
+			"updated_at": "2023-07-02T11:15:29.664Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"name": "Updates",
+			"order": 3,
+			"code": 2
+		}
+	},
+	{
+		"model": "main.newscategory",
+		"pk": "c18e36dd-587e-4d28-8c67-99ea9328a118",
+		"fields": {
+			"created_at": "2023-07-02T11:15:29.664Z",
+			"updated_at": "2023-07-02T11:15:29.664Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"name": "Events",
+			"order": 5,
+			"code": 3
+		}
+	},
+	{
+		"model": "main.newscategory",
+		"pk": "ce0f0e14-9e75-49e3-badd-5ff08999509f",
+		"fields": {
+			"created_at": "2023-07-02T11:15:29.664Z",
+			"updated_at": "2023-07-02T11:15:29.664Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"name": "IR",
+			"order": 4,
+			"code": 4
+		}
+	},
+	{
+		"model": "main.news",
+		"pk": "0ad1956d-c121-4e07-ae9f-b170bdd7c280",
+		"fields": {
+			"created_at": "2023-07-02T12:55:09.575Z",
+			"updated_at": "2023-07-02T12:55:09.575Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"title": "デジタルマーケティングセミナーの開催案内",
+			"contents": "デジタルマーケティングセミナーの開催をお知らせいたします。このセミナーでは最新のデジタルマーケティング戦略やツールについて学び、ビジネスの成果を最大化する方法を探求します。セミナーの詳細や参加登録については、弊社ウェブサイトのイベントページをご確認ください。\\n",
+			"publication_on": "2018-12-01",
+			"no": 23,
+			"category": "c18e36dd-587e-4d28-8c67-99ea9328a118",
+			"user": "9f0654c3-3f68-4ae0-b190-61fa320789f0"
+		}
+	},
+	{
+		"model": "main.news",
+		"pk": "0c4aa153-0958-4131-bb41-4b222c0ee9bb",
+		"fields": {
+			"created_at": "2023-07-02T12:55:09.575Z",
+			"updated_at": "2023-07-02T12:55:09.575Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"title": "年次総会のご案内",
+			"contents": "弊社の年次総会を開催いたします。総会では会社の業績や戦略について報告し、株主の皆さまとの意見交換の場を設けます。日程は〇月〇日で、詳細な場所と時間については別途ご連絡いたします。株主の皆さまにとって有意義な総会になるよう、準備を進めておりますので、ぜひご参加ください。\\n",
+			"publication_on": "2015-02-01",
+			"no": 2,
+			"category": "c18e36dd-587e-4d28-8c67-99ea9328a118",
+			"user": "dbbff5cd-64ef-4036-928c-57eb0a26a1f5"
+		}
+	},
+	{
+		"model": "main.news",
+		"pk": "2a406cdf-4ab0-42dd-9967-a6e750c386b4",
+		"fields": {
+			"created_at": "2023-07-02T12:55:09.575Z",
+			"updated_at": "2023-07-02T12:55:09.575Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"title": "新製品発表のお知らせ",
+			"contents": "新製品の発表を予定しております。この製品は市場において大きなインパクトを持つものとなる予定です。発表日時や製品の詳細については、弊社ウェブサイトやプレスリリースをご覧ください。\\n",
+			"publication_on": "2018-04-01",
+			"no": 17,
+			"category": "ce0f0e14-9e75-49e3-badd-5ff08999509f",
+			"user": "dbbff5cd-64ef-4036-928c-57eb0a26a1f5"
+		}
+	},
+	{
+		"model": "main.news",
+		"pk": "2b92b840-23dc-4b00-b5ff-95c63a6e6b92",
+		"fields": {
+			"created_at": "2023-07-02T12:55:09.575Z",
+			"updated_at": "2023-07-02T12:55:09.575Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"title": "持続可能なエネルギーへの移行が進展",
+			"contents": "エネルギー業界において、持続可能なエネルギーへの移行が進展しています。再生可能エネルギー源の開発と普及、エネルギー効率の向上、排出削減策の導入などが取り組まれ、環境にやさしいエネルギーの利用が促進されています。また、政府や企業の取り組みに加え、市民の意識も高まり、エネルギー使用の見直しや省エネ活動が広がっています。持続可能なエネルギーへの移行は、地球環境への負荷軽減やクリーンな未来の実現に向けた重要な一歩となっています。\\n",
+			"publication_on": "2021-08-01",
+			"no": 41,
+			"category": "7519c654-04af-4bdb-869a-84740cbd0d8f",
+			"user": "25292fa9-9d3b-4ece-a40e-6a112759435b"
+		}
+	},
+	{
+		"model": "main.news",
+		"pk": "2c8b73e2-8d40-40e6-8e2e-e9ed61f8aa53",
+		"fields": {
+			"created_at": "2023-07-02T12:55:09.575Z",
+			"updated_at": "2023-07-02T12:55:09.575Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"title": "ビジネスセミナーの開催情報",
+			"contents": "ビジネスセミナーの開催情報をお知らせいたします。このセミナーではビジネスに関する最新のトレンドや戦略について学び、ビジネススキルを向上させることができます。日程や登壇者、参加費用については弊社ウェブサイトでご確認いただけます。貴重な情報とネットワーキングの機会をお見逃しなく。\\n",
+			"publication_on": "2018-05-01",
+			"no": 18,
+			"category": "c18e36dd-587e-4d28-8c67-99ea9328a118",
+			"user": "9f0654c3-3f68-4ae0-b190-61fa320789f0"
+		}
+	},
+	{
+		"model": "main.news",
+		"pk": "3fac137b-6dc5-414a-a133-80da73f06ce4",
+		"fields": {
+			"created_at": "2023-07-02T12:55:09.575Z",
+			"updated_at": "2023-07-02T12:55:09.575Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"title": "AI技術の進化により自動運転の実用化が加速",
+			"contents": "人工知能（AI）技術の急速な進歩により、自動運転技術の実用化がますます現実味を帯びてきました。AIの学習能力とセンサー技術の向上により、自動運転車の安全性と信頼性が大幅に向上しました。自動運転技術は、交通事故の削減や交通の効率化、高齢者や障がい者のモビリティの向上など、多くの利点をもたらすと期待されています。自動運転車の開発や関連産業への投資が増えており、競争が激化しています。\\n",
+			"publication_on": "2018-06-10",
+			"no": 20,
+			"category": "7519c654-04af-4bdb-869a-84740cbd0d8f",
+			"user": "9f0654c3-3f68-4ae0-b190-61fa320789f0"
+		}
+	},
+	{
+		"model": "main.news",
+		"pk": "401aae95-d051-454b-a8b0-e6f26fdc67d4",
+		"fields": {
+			"created_at": "2023-07-02T12:55:09.575Z",
+			"updated_at": "2023-07-02T12:55:09.575Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"title": "セミナー開催のお知らせ",
+			"contents": "業界の最新トピックについてのセミナーを開催いたします。著名なスピーカーによる講演やパネルディスカッションを通じて、業界の最新動向や成功事例を共有します。セミナーは〇月〇日に行われます。詳細なプログラムや参加登録方法については、弊社ウェブサイトでご確認ください。\\n",
+			"publication_on": "2016-02-01",
+			"no": 6,
+			"category": "c18e36dd-587e-4d28-8c67-99ea9328a118",
+			"user": "dbbff5cd-64ef-4036-928c-57eb0a26a1f5"
+		}
+	},
+	{
+		"model": "main.news",
+		"pk": "43637950-9346-45a2-9a7c-0486cc09f909",
+		"fields": {
+			"created_at": "2023-07-02T12:55:09.575Z",
+			"updated_at": "2023-07-02T12:55:09.575Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"title": "業界イベントへの参加を発表",
+			"contents": "当社は業界の重要なイベントに参加することを発表いたしました。このイベントでは、最新のトレンドや技術について情報交換し、業界のリーダーとのネットワーキングの機会を提供します。詳細や当社の出展内容については、弊社ウェブサイトのプレスリリースをご参照ください。\\n",
+			"publication_on": "2019-04-01",
+			"no": 25,
+			"category": "67dafb4e-a55f-453c-b7f7-eeb41707b981",
+			"user": "9f0654c3-3f68-4ae0-b190-61fa320789f0"
+		}
+	},
+	{
+		"model": "main.news",
+		"pk": "44131353-1f9b-4b2d-b609-6c68dc1e0c96",
+		"fields": {
+			"created_at": "2023-07-02T12:55:09.575Z",
+			"updated_at": "2023-07-02T12:55:09.575Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"title": "新製品の最新情報をお届けします",
+			"contents": "お待たせしました！新製品の最新情報をお届けいたします。当社の最新製品は、革新的な機能とデザインが特長です。開発チームはユーザーのフィードバックに基づいて改善を重ね、製品の品質と使いやすさにこだわりました。製品の詳細や発売予定日については、弊社ウェブサイトやSNSアカウントで随時更新してまいりますので、ぜひチェックしてください。\\n",
+			"publication_on": "2017-10-01",
+			"no": 15,
+			"category": "85facf8d-2a3d-49b5-8bd9-690f1a2ca178",
+			"user": "dbbff5cd-64ef-4036-928c-57eb0a26a1f5"
+		}
+	},
+	{
+		"model": "main.news",
+		"pk": "44262e97-5d3b-4b4f-8832-3ce31cb17bb3",
+		"fields": {
+			"created_at": "2023-07-02T12:55:09.575Z",
+			"updated_at": "2023-07-02T12:55:09.575Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"title": "事業拡大に関する記者会見の開催情報",
+			"contents": "事業拡大に関する記者会見を開催いたします。この会見では新たな戦略や展開について詳しく説明いたします。会見の日程や場所、および報道関係者の方への申し込み方法については、弊社の広報担当までお問い合わせください。\\n",
+			"publication_on": "2019-04-01",
+			"no": 24,
+			"category": "ce0f0e14-9e75-49e3-badd-5ff08999509f",
+			"user": "9f0654c3-3f68-4ae0-b190-61fa320789f0"
+		}
+	},
+	{
+		"model": "main.news",
+		"pk": "4cf85a08-f16b-412b-bc6b-f3abecd60d91",
+		"fields": {
+			"created_at": "2023-07-02T12:55:09.575Z",
+			"updated_at": "2023-07-02T12:55:09.575Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"title": "決算発表のお知らせ",
+			"contents": "当社の最新の決算結果を発表いたします。今年度の業績や財務状況について詳細な情報を提供いたします。決算発表の日時や方法については、弊社ウェブサイトのIRセクションをご参照ください。\\n",
+			"publication_on": "2016-04-01",
+			"no": 7,
+			"category": "ce0f0e14-9e75-49e3-badd-5ff08999509f",
+			"user": "dbbff5cd-64ef-4036-928c-57eb0a26a1f5"
+		}
+	},
+	{
+		"model": "main.news",
+		"pk": "53863597-f81b-4230-90a7-46e65fcccc9f",
+		"fields": {
+			"created_at": "2023-07-02T12:55:09.575Z",
+			"updated_at": "2023-07-02T12:55:09.575Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"title": "地域コミュニティ支援イベントのお知らせ",
+			"contents": "当社は地域のコミュニティ支援イベントに参加いたします。ボランティア活動や寄付など、さまざまな方法で地域の発展に貢献します。イベントの詳細や参加方法については、弊社ウェブサイトや社内の広報チャンネルでご案内いたします。",
+			"publication_on": "2022-02-01",
+			"no": 44,
+			"category": "c18e36dd-587e-4d28-8c67-99ea9328a118",
+			"user": "25292fa9-9d3b-4ece-a40e-6a112759435b"
+		}
+	},
+	{
+		"model": "main.news",
+		"pk": "53fe62d5-4192-4bf5-81f3-945b3ad3ae2c",
+		"fields": {
+			"created_at": "2023-07-02T12:55:09.575Z",
+			"updated_at": "2023-07-02T12:55:09.575Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"title": "地域清掃活動のボランティア募集",
+			"contents": "地域清掃活動のボランティア参加者を募集いたします。この活動では地域の美化と環境保全に貢献します。一緒に手を組んで地域をきれいにしましょう。参加方法や詳細な日程については弊社ウェブサイトやSNSアカウントでお知らせいたしますので、ぜひご参加ください。\\n",
+			"publication_on": "2020-01-01",
+			"no": 32,
+			"category": "c18e36dd-587e-4d28-8c67-99ea9328a118",
+			"user": "9f0654c3-3f68-4ae0-b190-61fa320789f0"
+		}
+	},
+	{
+		"model": "main.news",
+		"pk": "56571377-4e8b-48e2-b7fd-10f87cb96707",
+		"fields": {
+			"created_at": "2023-07-02T12:55:09.575Z",
+			"updated_at": "2023-07-02T12:55:09.575Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"title": "地元スポーツ大会の応援要請",
+			"contents": "地元のスポーツ大会に参加する選手への応援をお願いいたします。選手たちは地域を代表して競技に挑みますので、たくさんの応援が力になります。大会の日程や会場については、大会公式ウェブサイトや新聞広告でご確認いただけます。\\n",
+			"publication_on": "2020-10-01",
+			"no": 36,
+			"category": "c18e36dd-587e-4d28-8c67-99ea9328a118",
+			"user": "25292fa9-9d3b-4ece-a40e-6a112759435b"
+		}
+	},
+	{
+		"model": "main.news",
+		"pk": "568bb810-fc07-4b57-9fc2-5fb90eb2845a",
+		"fields": {
+			"created_at": "2023-07-02T12:55:09.575Z",
+			"updated_at": "2023-07-02T12:55:09.575Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"title": "サマーフェスティバルの開催予告",
+			"contents": "サマーフェスティバルの開催を予告いたします。このイベントでは楽しい音楽、フード、アクティビティが盛りだくさんです。家族や友人と一緒に楽しい夏の思い出を作りましょう。日程や詳細については後日ご案内いたしますので、お楽しみに。\\n",
+			"publication_on": "2019-11-01",
+			"no": 30,
+			"category": "c18e36dd-587e-4d28-8c67-99ea9328a118",
+			"user": "9f0654c3-3f68-4ae0-b190-61fa320789f0"
+		}
+	},
+	{
+		"model": "main.news",
+		"pk": "5cb81a76-eb97-4032-83b9-f5ea0ab5663f",
+		"fields": {
+			"created_at": "2023-07-02T12:55:09.575Z",
+			"updated_at": "2023-07-02T12:55:09.575Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"title": "新しいパートナーシップのお知らせ",
+			"contents": "新しいパートナーシップの成立をお知らせいたします。当社は〇〇社との戦略的なパートナーシップを締結し、お互いの強みを活かした協力関係を築きました。このパートナーシップにより、より幅広い市場への進出や新たなビジネスチャンスの創出を目指します。両社の連携により、お客様により良い価値を提供できると確信しております。\\n",
+			"publication_on": "2020-05-01",
+			"no": 34,
+			"category": "85facf8d-2a3d-49b5-8bd9-690f1a2ca178",
+			"user": "9f0654c3-3f68-4ae0-b190-61fa320789f0"
+		}
+	},
+	{
+		"model": "main.news",
+		"pk": "5fbd8bf9-eb76-4cf5-bbb8-eb72acfb7f29",
+		"fields": {
+			"created_at": "2023-07-02T12:55:09.575Z",
+			"updated_at": "2023-07-02T12:55:09.575Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"title": "就職フェアへの参加案内",
+			"contents": "〇〇大学で開催される就職フェアに参加いたします。当社の採用担当者が在場し、学生の皆さまとの交流を通じて当社の魅力や採用情報をご紹介します。フェアの日程やブースの場所については、大学のイベントページや弊社ウェブサイトでご確認いただけます。是非お気軽にお立ち寄りください。\\n",
+			"publication_on": "2016-12-01",
+			"no": 11,
+			"category": "c18e36dd-587e-4d28-8c67-99ea9328a118",
+			"user": "dbbff5cd-64ef-4036-928c-57eb0a26a1f5"
+		}
+	},
+	{
+		"model": "main.news",
+		"pk": "6a717eaf-ab34-4c50-b8fc-040b6d498daa",
+		"fields": {
+			"created_at": "2023-07-02T12:55:09.575Z",
+			"updated_at": "2023-07-02T12:55:09.575Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"title": "インターンシッププログラムの募集開始",
+			"contents": "インターンシッププログラムの募集を開始いたします。学生の皆さんには当社の業務に携わる貴重な経験を積んでいただける機会です。詳細なプログラム内容や応募方法については弊社ウェブサイトのキャリアページをご確認ください。\\n",
+			"publication_on": "2021-03-01",
+			"no": 39,
+			"category": "c18e36dd-587e-4d28-8c67-99ea9328a118",
+			"user": "25292fa9-9d3b-4ece-a40e-6a112759435b"
+		}
+	},
+	{
+		"model": "main.news",
+		"pk": "6febf6e0-5c20-4dcc-bf14-a1a8a62be709",
+		"fields": {
+			"created_at": "2023-07-02T12:55:09.575Z",
+			"updated_at": "2023-07-02T12:55:09.575Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"title": "社内スポーツ大会のお知らせ",
+			"contents": "社内スポーツ大会の開催をお知らせいたします。この大会では社員同士の交流と健康促進を図ることを目的としています。様々な種目が用意されており、参加者は自身のスポーツスキルを試すことができます。詳細な日程や参加方法については社内の掲示板でご確認ください。\\n",
+			"publication_on": "2021-10-01",
+			"no": 42,
+			"category": "c18e36dd-587e-4d28-8c67-99ea9328a118",
+			"user": "25292fa9-9d3b-4ece-a40e-6a112759435b"
+		}
+	},
+	{
+		"model": "main.news",
+		"pk": "76191451-c938-4bbf-8af4-2a310e0d5812",
+		"fields": {
+			"created_at": "2023-07-02T12:55:09.575Z",
+			"updated_at": "2023-07-02T12:55:09.575Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"title": "新たな教育プログラムが学生のキャリア形成をサポート",
+			"contents": "教育界において革新的な動きが生まれ、学生のキャリア形成をサポートするための新しい教育プログラムが導入されました。このプログラムは、実践的なスキルの習得やインターンシップの機会を提供し、学生たちが現実のビジネス環境で経験を積むことができます。さらに、産業界との連携やキャリア相談サービスの充実など、学生の就職活動をサポートする取り組みも行われています。新たな教育プログラムは、学生の将来への準備を強化し、グローバルな競争社会において彼らの成功を支える役割を果たします。\\n",
+			"publication_on": "2020-08-01",
+			"no": 35,
+			"category": "7519c654-04af-4bdb-869a-84740cbd0d8f",
+			"user": "25292fa9-9d3b-4ece-a40e-6a112759435b"
+		}
+	},
+	{
+		"model": "main.news",
+		"pk": "77f5004b-e78a-472f-96ce-abbcb0d41afb",
+		"fields": {
+			"created_at": "2023-07-02T12:55:09.575Z",
+			"updated_at": "2023-07-02T12:55:09.575Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"title": "新商品のローンチにより市場に新たな刺激",
+			"contents": "業界をリードする企業が、待望の新商品を市場に投入しました。この新商品は、革新的な機能とデザインで注目を集め、消費者の関心を高めています。企業は市場調査と顧客の声に基づいて商品を開発し、競争力のある価格設定を行いました。新商品のローンチにより競争が活発化し、市場に新たな刺激がもたらされることが期待されます。\\n",
+			"publication_on": "2019-06-01",
+			"no": 26,
+			"category": "7519c654-04af-4bdb-869a-84740cbd0d8f",
+			"user": "9f0654c3-3f68-4ae0-b190-61fa320789f0"
+		}
+	},
+	{
+		"model": "main.news",
+		"pk": "785d3591-7066-4e0a-b175-769219b5a05e",
+		"fields": {
+			"created_at": "2023-07-02T12:55:09.575Z",
+			"updated_at": "2023-07-02T12:55:09.575Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"title": "起業セミナーの開催情報",
+			"contents": "起業セミナーの開催情報をお知らせいたします。このセミナーでは起業に関する知識やノウハウを学び、起業家としてのスキルを磨くことができます。参加者は成功した起業家の経験を直接聞くことができる貴重な機会です。日程や参加費用については弊社ウェブサイトをご覧ください。\\n",
+			"publication_on": "2019-11-20",
+			"no": 31,
+			"category": "c18e36dd-587e-4d28-8c67-99ea9328a118",
+			"user": "9f0654c3-3f68-4ae0-b190-61fa320789f0"
+		}
+	},
+	{
+		"model": "main.news",
+		"pk": "87bed42a-5b35-46c4-acc4-439d4199a601",
+		"fields": {
+			"created_at": "2023-07-02T12:55:09.575Z",
+			"updated_at": "2023-07-02T12:55:09.575Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"title": "テック企業が革新的な製品ラインを発売",
+			"contents": "大手テック企業が画期的な動きを見せ、業界を再定義するエキサイティングな製品ラインを発売しました。これらの新製品は、最新の技術を駆使して開発され、ユーザーに優れたパフォーマンスと使いやすさを提供します。製品ラインには、スマートフォン、ノートパソコン、ウェアラブルデバイスなどが含まれており、幅広いニーズに対応しています。さらに、これらの製品は持続可能なデザインとエコフレンドリーな素材を採用し、環境への配慮も考慮されています。テック愛好家や消費者は、この革新的な製品ラインに注目しており、ますます進化するテクノロジーの未来を感じることができます。\\n",
+			"publication_on": "2015-10-01",
+			"no": 4,
+			"category": "7519c654-04af-4bdb-869a-84740cbd0d8f",
+			"user": "dbbff5cd-64ef-4036-928c-57eb0a26a1f5"
+		}
+	},
+	{
+		"model": "main.news",
+		"pk": "8c35d682-51db-485b-8a26-05862d8dbc5d",
+		"fields": {
+			"created_at": "2023-07-02T12:55:09.575Z",
+			"updated_at": "2023-07-02T12:55:09.575Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"title": "春のフェスティバル開催のお知らせ",
+			"contents": "春のフェスティバルを開催いたします。イベントでは美味しいフードブースやライブ演奏、ワークショップなどさまざまなエンターテイメントをご用意しています。皆さまに素敵な春のひと時をお楽しみいただけること間違いありません。日程や場所については、近日中に公式ウェブサイトで発表いたします。\\n",
+			"publication_on": "2018-03-01",
+			"no": 16,
+			"category": "c18e36dd-587e-4d28-8c67-99ea9328a118",
+			"user": "dbbff5cd-64ef-4036-928c-57eb0a26a1f5"
+		}
+	},
+	{
+		"model": "main.news",
+		"pk": "8d515637-7592-4372-bf92-d21e5f93c770",
+		"fields": {
+			"created_at": "2023-07-02T12:55:09.575Z",
+			"updated_at": "2023-07-02T12:55:09.575Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"title": "重要な更新事項についてのお知らせ",
+			"contents": "重要な更新事項をお知らせいたします。当社では、サービスの品質向上やセキュリティ強化のために定期的なアップデートを実施しています。次回のアップデートでは〇〇機能の追加や不具合の修正が含まれています。アップデートの詳細や影響範囲については、弊社ウェブサイトやお客様向けの通知にてご確認いただけます。ご利用の皆さまにはご不便をおかけする場合もあるかと思いますが、ご理解とご協力をお願い申し上げます。\\n",
+			"publication_on": "2019-10-01",
+			"no": 28,
+			"category": "85facf8d-2a3d-49b5-8bd9-690f1a2ca178",
+			"user": "9f0654c3-3f68-4ae0-b190-61fa320789f0"
+		}
+	},
+	{
+		"model": "main.news",
+		"pk": "a39146d4-59cf-4a51-9eb4-da0a22d85a64",
+		"fields": {
+			"created_at": "2023-07-02T12:55:09.575Z",
+			"updated_at": "2023-07-02T12:55:09.575Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"title": "地球温暖化対策に関する国際会議が開催",
+			"contents": "地球温暖化の深刻な問題に対処するため、国際的な会議が開催されました。この会議では、世界中の科学者や政府関係者が集まり、持続可能なエネルギー源や環境保護についての戦略を議論しました。議論の中心には、二酸化炭素の排出削減策や再生可能エネルギーの普及、森林保護などがありました。各国は共同の目標達成に向けて協力し、地球温暖化の進行を食い止めるための具体的な行動を模索しています。\\n",
+			"publication_on": "2016-07-01",
+			"no": 9,
+			"category": "7519c654-04af-4bdb-869a-84740cbd0d8f",
+			"user": "dbbff5cd-64ef-4036-928c-57eb0a26a1f5"
+		}
+	},
+	{
+		"model": "main.news",
+		"pk": "a3d86009-cb55-4143-847e-95e8739b5001",
+		"fields": {
+			"created_at": "2023-07-02T12:55:09.575Z",
+			"updated_at": "2023-07-02T12:55:09.575Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"title": "新型ウイルスの感染拡大に関する警告",
+			"contents": "最新の報告によると、新たなウイルスの感染が広がっていることが判明しました。このウイルスは高い感染力を持ち、症状は重篤な場合があります。保健当局は、感染予防対策として、適切な手洗いやマスクの着用、社会的距離の確保などを呼びかけています。また、関連する症状がある場合には、速やかに医療機関を受診するように促しています。この状況に対して、国内外の専門家や保健当局が連携し、迅速かつ効果的な対策を講じるための取り組みが進められています。\\n",
+			"publication_on": "2017-07-01",
+			"no": 13,
+			"category": "7519c654-04af-4bdb-869a-84740cbd0d8f",
+			"user": "dbbff5cd-64ef-4036-928c-57eb0a26a1f5"
+		}
+	},
+	{
+		"model": "main.news",
+		"pk": "ad8615fe-09ca-4f16-a36c-e6393eac0504",
+		"fields": {
+			"created_at": "2023-07-02T12:55:09.575Z",
+			"updated_at": "2023-07-02T12:55:09.575Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"title": "地域の文化祭への協賛のお知らせ",
+			"contents": "地域の文化祭に協賛いたします。当社は地域の発展を応援し、地域の文化や芸術の振興に貢献したいと考えています。文化祭では様々なイベントやパフォーマンスが行われますので、ぜひ皆さまでお楽しみください。詳細な日程や場所については、地域の公式ウェブサイトをご確認ください。\\n",
+			"publication_on": "2018-06-01",
+			"no": 19,
+			"category": "c18e36dd-587e-4d28-8c67-99ea9328a118",
+			"user": "9f0654c3-3f68-4ae0-b190-61fa320789f0"
+		}
+	},
+	{
+		"model": "main.news",
+		"pk": "bab90b0c-ce6b-4941-ab12-55ba054904f4",
+		"fields": {
+			"created_at": "2023-07-02T12:55:09.575Z",
+			"updated_at": "2023-07-02T12:55:09.575Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"title": "社内トレーニングプログラムのお知らせ",
+			"contents": "社内トレーニングプログラムの開催をお知らせいたします。当社では、社員のスキルアップとキャリア成長を支援するためにさまざまなトレーニングプログラムを提供しています。次回のトレーニングは〇〇テーマで行われ、専門講師を招き実施いたします。参加者は専門知識の向上やスキルの磨き直しを目指すことができます。トレーニングの詳細や申し込み方法については、社内連絡チャンネルでご案内いたします。\\n",
+			"publication_on": "2021-11-01",
+			"no": 43,
+			"category": "85facf8d-2a3d-49b5-8bd9-690f1a2ca178",
+			"user": "25292fa9-9d3b-4ece-a40e-6a112759435b"
+		}
+	},
+	{
+		"model": "main.news",
+		"pk": "bd4673eb-5cda-45c7-b56f-4eb5d8040d73",
+		"fields": {
+			"created_at": "2023-07-02T12:55:09.575Z",
+			"updated_at": "2023-07-02T12:55:09.575Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"title": "社内イベントのお知らせ",
+			"contents": "社内イベントの開催をお知らせいたします。当社では、社員同士の交流を促進し、チームビルディングを図るためにさまざまなイベントを実施しています。次回のイベントは〇〇日に開催予定です。参加者同士のコミュニケーションを活性化させ、楽しく有意義な時間を過ごすことを目指しています。皆さまのご参加をお待ちしております。\\n",
+			"publication_on": "2018-09-01",
+			"no": 22,
+			"category": "85facf8d-2a3d-49b5-8bd9-690f1a2ca178",
+			"user": "9f0654c3-3f68-4ae0-b190-61fa320789f0"
+		}
+	},
+	{
+		"model": "main.news",
+		"pk": "c0b5b2a4-2b9b-421a-9774-147c9576b159",
+		"fields": {
+			"created_at": "2023-07-02T12:55:09.575Z",
+			"updated_at": "2023-07-02T12:55:09.575Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"title": "組織改善に関する最新情報",
+			"contents": "組織改善に関する最新情報をお知らせいたします。当社では、持続的な成長と効率性向上を目指して組織の見直しを行っています。新しいプロセスやチーム構成の導入により、業務の効率化や意思決定の迅速化を実現する予定です。組織改善の詳細や変更に伴う影響については、関係者に対して別途連絡いたします。引き続き皆さまのご協力をお願い申し上げます。\\n",
+			"publication_on": "2019-11-01",
+			"no": 29,
+			"category": "85facf8d-2a3d-49b5-8bd9-690f1a2ca178",
+			"user": "9f0654c3-3f68-4ae0-b190-61fa320789f0"
+		}
+	},
+	{
+		"model": "main.news",
+		"pk": "c35a249e-da16-4d13-9242-e366a99fd399",
+		"fields": {
+			"created_at": "2023-07-02T12:55:09.575Z",
+			"updated_at": "2023-07-02T12:55:09.575Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"title": "企業社会貢献活動の拡大を発表",
+			"contents": "当社は企業社会貢献活動の範囲を拡大することを発表いたしました。我々は持続可能な社会の実現に貢献するため、環境保護や地域支援などの取り組みを強化してまいります。具体的な活動内容や目標については、弊社ウェブサイトのプレスリリースをご覧ください。\\n",
+			"publication_on": "2021-01-01",
+			"no": 37,
+			"category": "67dafb4e-a55f-453c-b7f7-eeb41707b981",
+			"user": "25292fa9-9d3b-4ece-a40e-6a112759435b"
+		}
+	},
+	{
+		"model": "main.news",
+		"pk": "cd338f9d-96a1-45a9-ab6f-3113883574af",
+		"fields": {
+			"created_at": "2023-07-02T12:55:09.575Z",
+			"updated_at": "2023-07-02T12:55:09.575Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"title": "持株会社設立のお知らせ",
+			"contents": "当社は持株会社制度への移行を決定いたしました。これにより、事業の効率化やグループ経営の一層の強化を図ることができます。移行手続きや詳細については、弊社ウェブサイトや株主への案内をご確認ください。\\n",
+			"publication_on": "2020-04-01",
+			"no": 33,
+			"category": "ce0f0e14-9e75-49e3-badd-5ff08999509f",
+			"user": "9f0654c3-3f68-4ae0-b190-61fa320789f0"
+		}
+	},
+	{
+		"model": "main.news",
+		"pk": "d1fa9aa8-a485-499f-b1c5-3175a5f9c1a0",
+		"fields": {
+			"created_at": "2023-07-02T12:55:09.575Z",
+			"updated_at": "2023-07-02T12:55:09.575Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"title": "プロジェクト進捗の最新情報をお知らせします",
+			"contents": "弊社の最新プロジェクトに関する進捗情報をお知らせいたします。現在、プロジェクトは順調に進行しており、予定通りのスケジュールで推移しています。チームは効果的なコラボレーションを行い、目標に向けて着実に前進しています。引き続き努力を重ね、プロジェクトの成功に向けて全力を尽くしてまいります。\\n",
+			"publication_on": "2016-05-01",
+			"no": 8,
+			"category": "85facf8d-2a3d-49b5-8bd9-690f1a2ca178",
+			"user": "dbbff5cd-64ef-4036-928c-57eb0a26a1f5"
+		}
+	},
+	{
+		"model": "main.news",
+		"pk": "d36301fe-1e5a-4388-9240-9609ed533463",
+		"fields": {
+			"created_at": "2023-07-02T12:55:09.575Z",
+			"updated_at": "2023-07-02T12:55:09.575Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"title": "チャリティーランの開催予告",
+			"contents": "チャリティーランの開催を予告いたします。このイベントではランニングに参加しながら、地域の慈善団体への寄付を募集します。参加者は健康促進と社会貢献を同時に行える絶好の機会です。ランの日程や参加方法については後日ご案内いたしますので、乞うご期待ください。\\n",
+			"publication_on": "2017-09-01",
+			"no": 14,
+			"category": "c18e36dd-587e-4d28-8c67-99ea9328a118",
+			"user": "dbbff5cd-64ef-4036-928c-57eb0a26a1f5"
+		}
+	},
+	{
+		"model": "main.news",
+		"pk": "d984b29b-24fe-4482-8670-b8f46b1ff341",
+		"fields": {
+			"created_at": "2023-07-02T12:55:09.575Z",
+			"updated_at": "2023-07-02T12:55:09.575Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"title": "新しい研究結果が驚きをもたらす",
+			"contents": "最近公表された研究により、従来の常識に挑戦する驚くべき結果が明かされました。この研究は、新たな治療法や予防策の開発に向けた道を開く可能性があります。研究者たちは、数年にわたって慎重にデータを収集し、複数の実験を行いました。その結果、従来の理論や仮説に疑問を投げかける成果が得られたのです。この発見は、医学や科学の分野において大きな注目を集めており、今後の研究や治療法の改善に寄与することが期待されています。\\n",
+			"publication_on": "2015-01-01",
+			"no": 1,
+			"category": "7519c654-04af-4bdb-869a-84740cbd0d8f",
+			"user": "dbbff5cd-64ef-4036-928c-57eb0a26a1f5"
+		}
+	},
+	{
+		"model": "main.news",
+		"pk": "dd9ed6fb-6c29-4cbd-aa8e-b715f3b0ea2b",
+		"fields": {
+			"created_at": "2023-07-02T12:55:09.575Z",
+			"updated_at": "2023-07-02T12:55:09.575Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"title": "株主総会の開催予告",
+			"contents": "株主総会の開催を予告いたします。株主の皆さまには重要な経営報告や議案の承認をお願いする場となります。総会の日程や場所、議案内容については後日正式な通知書をお送りいたしますので、ご確認ください。\\n",
+			"publication_on": "2017-04-01",
+			"no": 12,
+			"category": "ce0f0e14-9e75-49e3-badd-5ff08999509f",
+			"user": "dbbff5cd-64ef-4036-928c-57eb0a26a1f5"
+		}
+	},
+	{
+		"model": "main.news",
+		"pk": "df67840c-81d9-4211-9fe5-ab4c9f3e1219",
+		"fields": {
+			"created_at": "2023-07-02T12:55:09.575Z",
+			"updated_at": "2023-07-02T12:55:09.575Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"title": "新しい医療施設の開設により医療アクセスが向上",
+			"contents": "医療アクセスの向上を目指す取り組みの一環として、新しい医療施設が地域に開設されました。この施設は、最新の医療機器と設備を備え、地域の住民に高品質な医療サービスを提供します。また、専門的な医療スタッフが配置され、患者のニーズに合わせたケアを提供します。この新しい医療施設は、地域の医療インフラの強化と医療の普及を促進する役割を果たします。\\n",
+			"publication_on": "2018-08-01",
+			"no": 21,
+			"category": "7519c654-04af-4bdb-869a-84740cbd0d8f",
+			"user": "9f0654c3-3f68-4ae0-b190-61fa320789f0"
+		}
+	},
+	{
+		"model": "main.news",
+		"pk": "e9536cdb-c055-44d8-9f3c-7f7021b07110",
+		"fields": {
+			"created_at": "2023-07-02T12:55:09.575Z",
+			"updated_at": "2023-07-02T12:55:09.575Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"title": "新商品発表イベントのお知らせ",
+			"contents": "新商品の発表イベントを開催いたします。このイベントでは最新の製品をご紹介し、デモンストレーションを行います。参加者は新商品を試す機会を得るだけでなく、製品開発に関わったチームと直接話す機会もあります。イベントの日程や場所については、弊社ウェブサイトやSNSアカウントで随時更新してまいりますので、ご期待ください。\\n",
+			"publication_on": "2016-09-01",
+			"no": 10,
+			"category": "c18e36dd-587e-4d28-8c67-99ea9328a118",
+			"user": "dbbff5cd-64ef-4036-928c-57eb0a26a1f5"
+		}
+	},
+	{
+		"model": "main.news",
+		"pk": "ec497a41-8115-44b1-848e-fe2f28d11938",
+		"fields": {
+			"created_at": "2023-07-02T12:55:09.575Z",
+			"updated_at": "2023-07-02T12:55:09.575Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"title": "新たなベンチャーキャピタルがスタートアップ支援を開始",
+			"contents": "スタートアップ企業の成長を支援するため、新たなベンチャーキャピタルが活動を開始しました。このベンチャーキャピタルは、若手起業家や創業者に投資し、資金や経営支援を提供します。また、ネットワークや専門知識を活用して、スタートアップ企業の成長を加速させることを目指します。この取り組みにより、新たなビジネスの創出やイノベーションが促進され、地域経済の活性化が期待されています。\\n",
+			"publication_on": "2019-08-01",
+			"no": 27,
+			"category": "7519c654-04af-4bdb-869a-84740cbd0d8f",
+			"user": "9f0654c3-3f68-4ae0-b190-61fa320789f0"
+		}
+	},
+	{
+		"model": "main.news",
+		"pk": "efee93fb-146f-4cc8-97d0-05316f84254a",
+		"fields": {
+			"created_at": "2023-07-02T12:55:09.575Z",
+			"updated_at": "2023-07-02T12:55:09.575Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"title": "新製品のローンチを発表",
+			"contents": "当社は新製品のローンチを発表いたしました。この製品は革新的な機能とデザインを備え、市場に新たな価値をもたらします。製品の詳細や発売予定日については、弊社ウェブサイトのプレスリリースをご覧ください。\\n",
+			"publication_on": "2015-05-01",
+			"no": 3,
+			"category": "67dafb4e-a55f-453c-b7f7-eeb41707b981",
+			"user": "dbbff5cd-64ef-4036-928c-57eb0a26a1f5"
+		}
+	},
+	{
+		"model": "main.news",
+		"pk": "f3330b9c-0644-4573-b732-3566fdae196b",
+		"fields": {
+			"created_at": "2023-07-02T12:55:09.575Z",
+			"updated_at": "2023-07-02T12:55:09.575Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"title": "クリスマスパーティーのお知らせ",
+			"contents": "年末恒例のクリスマスパーティーの開催をお知らせいたします。皆さまと楽しいひと時を過ごすために、様々なイベントやゲームをご用意しています。日時は〇月〇日で、詳細な場所と参加方法については後日ご案内いたします。一緒にクリスマスの喜びを分かち合いましょう。\\n",
+			"publication_on": "2015-12-01",
+			"no": 5,
+			"category": "c18e36dd-587e-4d28-8c67-99ea9328a118",
+			"user": "dbbff5cd-64ef-4036-928c-57eb0a26a1f5"
+		}
+	},
+	{
+		"model": "main.news",
+		"pk": "fc51660c-48c6-44f3-8677-48d3762efed2",
+		"fields": {
+			"created_at": "2023-07-02T12:55:09.575Z",
+			"updated_at": "2023-07-02T12:55:09.575Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"title": "社内ハッピーアワーのお知らせ",
+			"contents": "社内ハッピーアワーの開催をお知らせいたします。このイベントでは社員同士の交流を深め、リラックスした雰囲気で楽しいひとときを過ごすことができます。詳細な日程や場所については社内掲示板やメールでご案内いたしますので、ぜひご参加ください。\\n",
+			"publication_on": "2021-01-18",
+			"no": 38,
+			"category": "c18e36dd-587e-4d28-8c67-99ea9328a118",
+			"user": "25292fa9-9d3b-4ece-a40e-6a112759435b"
+		}
+	},
+	{
+		"model": "main.news",
+		"pk": "fdbd6406-653e-4c4c-8893-f21516522231",
+		"fields": {
+			"created_at": "2023-07-02T12:55:09.575Z",
+			"updated_at": "2023-07-02T12:55:09.575Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"title": "新規事業展開の発表",
+			"contents": "当社は新規事業展開の計画を発表いたしました。この新規事業は、市場のニーズに対応するために開発されたものであり、成長戦略の一環として注力してまいります。詳細については、弊社のIR情報やプレスリリースをご参照ください。",
+			"publication_on": "2021-04-01",
+			"no": 40,
+			"category": "ce0f0e14-9e75-49e3-badd-5ff08999509f",
+			"user": "25292fa9-9d3b-4ece-a40e-6a112759435b"
+		}
+	},
+	{
+		"model": "main.department",
+		"pk": "337af601-ad97-442a-b204-fd9d623cf193",
+		"fields": {
+			"created_at": "2023-07-02T12:08:08.654Z",
+			"updated_at": "2023-07-02T12:08:08.654Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"name": "営業部"
+		}
+	},
+	{
+		"model": "main.department",
+		"pk": "4af53885-b31f-401d-a785-ed0ca2d68450",
+		"fields": {
+			"created_at": "2023-07-02T12:08:08.654Z",
+			"updated_at": "2023-07-02T12:08:08.654Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"name": "広報部"
+		}
+	},
+	{
+		"model": "main.department",
+		"pk": "8c2d2af9-9137-4c35-a8dc-3d28c258e92d",
+		"fields": {
+			"created_at": "2023-07-02T12:08:08.654Z",
+			"updated_at": "2023-07-02T12:08:08.654Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"name": "人事部"
+		}
+	},
+	{
+		"model": "main.department",
+		"pk": "bc208aa4-0604-459f-a991-9210e83bfa31",
+		"fields": {
+			"created_at": "2023-07-02T12:08:08.654Z",
+			"updated_at": "2023-07-02T12:08:08.654Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"name": "経営部"
+		}
+	},
+	{
+		"model": "main.department",
+		"pk": "da05d2d3-03d2-44e8-a5f4-cbeb5c98a33d",
+		"fields": {
+			"created_at": "2023-07-02T12:08:08.654Z",
+			"updated_at": "2023-07-02T12:08:08.654Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"name": "システム部"
+		}
+	},
+	{
+		"model": "main.section",
+		"pk": "0e7de95c-fba3-45d3-a2e3-743efbf49364",
+		"fields": {
+			"created_at": "2023-07-02T12:13:35.033Z",
+			"updated_at": "2023-07-02T12:13:35.033Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"name": "第１",
+			"department": "337af601-ad97-442a-b204-fd9d623cf193"
+		}
+	},
+	{
+		"model": "main.section",
+		"pk": "1228c71a-3acc-44d7-be5e-c5d2faf109f8",
+		"fields": {
+			"created_at": "2023-07-02T12:13:35.033Z",
+			"updated_at": "2023-07-02T12:13:35.033Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"name": "直属",
+			"department": "4af53885-b31f-401d-a785-ed0ca2d68450"
+		}
+	},
+	{
+		"model": "main.section",
+		"pk": "12493349-6340-4c34-8abf-e56f16f718f7",
+		"fields": {
+			"created_at": "2023-07-02T12:13:35.033Z",
+			"updated_at": "2023-07-02T12:13:35.033Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"name": "開発課",
+			"department": "da05d2d3-03d2-44e8-a5f4-cbeb5c98a33d"
+		}
+	},
+	{
+		"model": "main.section",
+		"pk": "26b55232-ccbc-43c9-a45f-c5ad0ee559a7",
+		"fields": {
+			"created_at": "2023-07-02T12:13:35.033Z",
+			"updated_at": "2023-07-02T12:13:35.033Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"name": "デザイン課",
+			"department": "da05d2d3-03d2-44e8-a5f4-cbeb5c98a33d"
+		}
+	},
+	{
+		"model": "main.section",
+		"pk": "2e433ae4-93f9-4c9e-803b-00c463865130",
+		"fields": {
+			"created_at": "2023-07-02T12:13:35.033Z",
+			"updated_at": "2023-07-02T12:13:35.033Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"name": "インフラ課",
+			"department": "da05d2d3-03d2-44e8-a5f4-cbeb5c98a33d"
+		}
+	},
+	{
+		"model": "main.section",
+		"pk": "3b7acfa3-b0fd-4748-ba34-e4f259f4fef9",
+		"fields": {
+			"created_at": "2023-07-02T12:13:35.033Z",
+			"updated_at": "2023-07-02T12:13:35.033Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"name": "直属",
+			"department": "bc208aa4-0604-459f-a991-9210e83bfa31"
+		}
+	},
+	{
+		"model": "main.section",
+		"pk": "5596b85a-1d9b-4a98-bf9c-4fd62a46e1dd",
+		"fields": {
+			"created_at": "2023-07-02T12:13:35.033Z",
+			"updated_at": "2023-07-02T12:13:35.033Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"name": "第２",
+			"department": "337af601-ad97-442a-b204-fd9d623cf193"
+		}
+	},
+	{
+		"model": "main.section",
+		"pk": "930997fd-f085-4231-883c-5a3a037e1d41",
+		"fields": {
+			"created_at": "2023-07-02T12:13:35.033Z",
+			"updated_at": "2023-07-02T12:13:35.033Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"name": "第３",
+			"department": "337af601-ad97-442a-b204-fd9d623cf193"
+		}
+	},
+	{
+		"model": "main.section",
+		"pk": "d85d7728-0cd2-4484-b64a-993d3bc7b1cb",
+		"fields": {
+			"created_at": "2023-07-02T12:13:35.033Z",
+			"updated_at": "2023-07-02T12:13:35.033Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"name": "直属",
+			"department": "8c2d2af9-9137-4c35-a8dc-3d28c258e92d"
+		}
+	},
+	{
+		"model": "main.affiliationhistory",
+		"pk": "19598cf7-0922-44a5-943a-fdc0e09eca04",
+		"fields": {
+			"created_at": "2023-07-02T12:27:56.792Z",
+			"updated_at": "2023-07-02T12:27:56.792Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"start_on": "2018-04-01",
+			"end_on": "2015-06-15",
+			"user": "6faf74a2-2e3a-477e-913f-d509afe91ba1",
+			"section": "5596b85a-1d9b-4a98-bf9c-4fd62a46e1dd"
+		}
+	},
+	{
+		"model": "main.affiliationhistory",
+		"pk": "26c745a4-8b59-47f4-9b9c-3452c890b69a",
+		"fields": {
+			"created_at": "2023-07-02T12:27:56.792Z",
+			"updated_at": "2023-07-02T12:27:56.792Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"start_on": "2011-04-01",
+			"end_on": null,
+			"user": "dbbff5cd-64ef-4036-928c-57eb0a26a1f5",
+			"section": "12493349-6340-4c34-8abf-e56f16f718f7"
+		}
+	},
+	{
+		"model": "main.affiliationhistory",
+		"pk": "2d874f8d-5948-4e3c-9038-9f292105ff81",
+		"fields": {
+			"created_at": "2023-07-02T12:27:56.792Z",
+			"updated_at": "2023-07-02T12:27:56.792Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"start_on": "2015-06-01",
+			"end_on": null,
+			"user": "88e4780c-dc7e-4359-89e3-648292daebeb",
+			"section": "12493349-6340-4c34-8abf-e56f16f718f7"
+		}
+	},
+	{
+		"model": "main.affiliationhistory",
+		"pk": "53a733c9-7d81-41d4-b8d6-d8be5b9374b3",
+		"fields": {
+			"created_at": "2023-07-02T12:27:56.792Z",
+			"updated_at": "2023-07-02T12:27:56.792Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"start_on": "2011-04-01",
+			"end_on": null,
+			"user": "292ed8ad-b4cf-4c62-901c-e29279ec1da5",
+			"section": "3b7acfa3-b0fd-4748-ba34-e4f259f4fef9"
+		}
+	},
+	{
+		"model": "main.affiliationhistory",
+		"pk": "54d8eb51-83ae-4eb3-a2ad-87f020d30aec",
+		"fields": {
+			"created_at": "2023-07-02T12:27:56.792Z",
+			"updated_at": "2023-07-02T12:27:56.792Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"start_on": "2016-11-01",
+			"end_on": null,
+			"user": "a9766de1-83be-461c-984c-e9dbe147b1a6",
+			"section": "26b55232-ccbc-43c9-a45f-c5ad0ee559a7"
+		}
+	},
+	{
+		"model": "main.affiliationhistory",
+		"pk": "56dc60dd-8da0-4cec-ba2d-f00a33029f66",
+		"fields": {
+			"created_at": "2023-07-02T12:27:56.792Z",
+			"updated_at": "2023-07-02T12:27:56.792Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"start_on": "2022-07-01",
+			"end_on": null,
+			"user": "846506b6-cdc8-4ccf-bbfd-28772ac2b385",
+			"section": "1228c71a-3acc-44d7-be5e-c5d2faf109f8"
+		}
+	},
+	{
+		"model": "main.affiliationhistory",
+		"pk": "6b274cb8-0d4c-4961-bf13-bddb8978bc0b",
+		"fields": {
+			"created_at": "2023-07-02T12:27:56.792Z",
+			"updated_at": "2023-07-02T12:27:56.792Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"start_on": "2011-04-01",
+			"end_on": "2017-03-29",
+			"user": "77d4dfc7-9d4b-4c6f-ab7f-c6d25d823c04",
+			"section": "2e433ae4-93f9-4c9e-803b-00c463865130"
+		}
+	},
+	{
+		"model": "main.affiliationhistory",
+		"pk": "75a181ed-a017-4946-9267-250dcb49d00e",
+		"fields": {
+			"created_at": "2023-07-02T12:27:56.792Z",
+			"updated_at": "2023-07-02T12:27:56.792Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"start_on": "2018-04-01",
+			"end_on": null,
+			"user": "688bac75-bc91-4344-a6a4-a0a647f3c35a",
+			"section": "0e7de95c-fba3-45d3-a2e3-743efbf49364"
+		}
+	},
+	{
+		"model": "main.affiliationhistory",
+		"pk": "8003284e-a4b8-4ca7-9a7d-e95f5c193a9a",
+		"fields": {
+			"created_at": "2023-07-02T12:27:56.792Z",
+			"updated_at": "2023-07-02T12:27:56.792Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"start_on": "2011-04-01",
+			"end_on": null,
+			"user": "112c10c3-398f-440d-8235-7ef8c7791863",
+			"section": "2e433ae4-93f9-4c9e-803b-00c463865130"
+		}
+	},
+	{
+		"model": "main.affiliationhistory",
+		"pk": "8aa08972-e554-4114-bccc-bfebcde39994",
+		"fields": {
+			"created_at": "2023-07-02T12:27:56.792Z",
+			"updated_at": "2023-07-02T12:27:56.792Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"start_on": "2023-04-01",
+			"end_on": null,
+			"user": "70491804-ee4e-4f5f-8eb1-41b955a62744",
+			"section": "26b55232-ccbc-43c9-a45f-c5ad0ee559a7"
+		}
+	},
+	{
+		"model": "main.affiliationhistory",
+		"pk": "929536e4-7b99-4853-abc3-1510c37a3ea1",
+		"fields": {
+			"created_at": "2023-07-02T12:27:56.792Z",
+			"updated_at": "2023-07-02T12:27:56.792Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"start_on": "2018-04-01",
+			"end_on": "2020-03-29",
+			"user": "3431bd07-e97e-4212-b1b7-716737f54f07",
+			"section": "0e7de95c-fba3-45d3-a2e3-743efbf49364"
+		}
+	},
+	{
+		"model": "main.affiliationhistory",
+		"pk": "a40550c1-0f5f-4935-9651-d0f8197c25e1",
+		"fields": {
+			"created_at": "2023-07-02T12:27:56.792Z",
+			"updated_at": "2023-07-02T12:27:56.792Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"start_on": "2015-04-01",
+			"end_on": "2022-08-20",
+			"user": "de610f8c-d5e9-4f1e-b4ab-db5cbcbdecbe",
+			"section": "12493349-6340-4c34-8abf-e56f16f718f7"
+		}
+	},
+	{
+		"model": "main.affiliationhistory",
+		"pk": "ac162676-ada5-4448-8c88-03c4cdf7d027",
+		"fields": {
+			"created_at": "2023-07-02T12:27:56.792Z",
+			"updated_at": "2023-07-02T12:27:56.792Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"start_on": "2018-04-01",
+			"end_on": null,
+			"user": "c4d06dc6-eb47-484e-8d20-cd42e9a2258e",
+			"section": "d85d7728-0cd2-4484-b64a-993d3bc7b1cb"
+		}
+	},
+	{
+		"model": "main.affiliationhistory",
+		"pk": "b8421182-5b7a-4f54-a8ec-9c9e2b5e10c4",
+		"fields": {
+			"created_at": "2023-07-02T12:27:56.792Z",
+			"updated_at": "2023-07-02T12:27:56.792Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"start_on": "2023-07-02",
+			"end_on": null,
+			"user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"section": "12493349-6340-4c34-8abf-e56f16f718f7"
+		}
+	},
+	{
+		"model": "main.affiliationhistory",
+		"pk": "e16aa751-af62-4933-a83e-cb8779c24b69",
+		"fields": {
+			"created_at": "2023-07-02T12:27:56.792Z",
+			"updated_at": "2023-07-02T12:27:56.792Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"start_on": "2016-04-01",
+			"end_on": "2018-09-10",
+			"user": "df6395ca-f8d1-4e05-a1b9-8f843ed35ed9",
+			"section": "930997fd-f085-4231-883c-5a3a037e1d41"
+		}
+	},
+	{
+		"model": "main.affiliationhistory",
+		"pk": "ebdd8270-e971-4804-9d4f-7ba1183b6ff5",
+		"fields": {
+			"created_at": "2023-07-02T12:27:56.792Z",
+			"updated_at": "2023-07-02T12:27:56.792Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"start_on": "2015-04-01",
+			"end_on": "2017-03-29",
+			"user": "388baf10-0280-43ee-9760-6e001860d991",
+			"section": "5596b85a-1d9b-4a98-bf9c-4fd62a46e1dd"
+		}
+	},
+	{
+		"model": "main.affiliationhistory",
+		"pk": "f2d059ee-f842-49ba-8856-43b38dc8c281",
+		"fields": {
+			"created_at": "2023-07-02T12:27:56.792Z",
+			"updated_at": "2023-07-02T12:27:56.792Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"start_on": "2018-04-01",
+			"end_on": "2013-02-22",
+			"user": "3a7810d9-16b1-4d75-8848-134dc9d2e3c9",
+			"section": "930997fd-f085-4231-883c-5a3a037e1d41"
+		}
+	},
+	{
+		"model": "main.affiliationhistory",
+		"pk": "f5ed4373-ea80-4590-bad9-cfee8e498d17",
+		"fields": {
+			"created_at": "2023-07-02T12:27:56.792Z",
+			"updated_at": "2023-07-02T12:27:56.792Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"start_on": "2018-04-01",
+			"end_on": null,
+			"user": "9f0654c3-3f68-4ae0-b190-61fa320789f0",
+			"section": "1228c71a-3acc-44d7-be5e-c5d2faf109f8"
+		}
+	},
+	{
+		"model": "main.affiliationhistory",
+		"pk": "f7e8882c-be08-4680-ad66-d7cd7b94fc66",
+		"fields": {
+			"created_at": "2023-07-02T12:27:56.792Z",
+			"updated_at": "2023-07-02T12:27:56.792Z",
+			"created_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"updated_user": "74593ffb-07c0-ee54-79c1-98bf5d9fff83",
+			"is_deleted": false,
+			"start_on": "2020-08-01",
+			"end_on": null,
+			"user": "25292fa9-9d3b-4ece-a40e-6a112759435b",
+			"section": "1228c71a-3acc-44d7-be5e-c5d2faf109f8"
+		}
+	}
+]

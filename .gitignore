@@ -1,0 +1,14 @@
+.venv
+/venv/
+/.idea/modules.xml
+/.idea/misc.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/vcs.xml
+
+/shelf/
+/workspace.xml
+/.idea/workspace.xml
+
+__pycache__/
+
+/db.sqlite3
