@@ -2,7 +2,7 @@ import uuid
 from datetime import datetime
 
 from django.db import models
-from django.db.models import Q
+from django.db.models import Q, F
 from sequences import get_next_value
 
 from main.common.util import UserUtil
@@ -71,7 +71,7 @@ class BaseModel(models.Model):
         super().save(*args, **kwargs)
 
     def __str__(self):
-        return self.id
+        return str(self.id)
 
     class Meta:
         # 抽象基底クラス定義
@@ -141,13 +141,27 @@ class Section(BaseModel):
 
 class AffiliationHistoryManager(models.Manager):
     """所属履歴カスタムマネージャー"""
-    def current(self):
+    def current(self, includes_retired_last=False):
+        """現在の所属履歴を取得するフィルター
+
+        Parameters:
+        ----------
+        includes_retired_last: bool
+            退職者の場合、最後の所属履歴を含むか
+        """
         today = datetime.now().date()
-        return self.get_queryset().filter(
+        q = Q(
             Q(end_on__gte=today) | Q(end_on__isnull=True),
             start_on__lte=today,
-            is_deleted=False
+            is_deleted=False,
         )
+
+        if includes_retired_last:
+            q |= Q(
+                Q(end_on__gte=F("user__retirement_on")),
+                Q(start_on__lte=F("user__retirement_on")),
+            )
+        return self.get_queryset().filter(q)
 
 
 class AffiliationHistory(BaseModel):
