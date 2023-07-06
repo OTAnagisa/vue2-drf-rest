@@ -2,19 +2,8 @@ from django.db.models import Prefetch
 from rest_framework import generics, views
 from rest_framework.response import Response
 
-from main.models import News, User, AffiliationHistory
-from main.serializer import NewsSerializer, UserListSerializer
-
-
-class NewsListAPIView(generics.ListAPIView):
-    """投稿モデルの取得（一覧）APIクラス"""
-    queryset = (
-        News.objects.select_related("user", "category")
-        .filter(is_deleted=False)
-        .order_by("-publication_on", "category__order")
-    )
-
-    serializer_class = NewsSerializer
+from main.models import AffiliationHistory, User
+from main.serializer.user_serializer import UserListSerializer
 
 
 class UserListAPIView(views.APIView):
@@ -45,4 +34,3 @@ class UserListAPIView(views.APIView):
         )
         serializer = UserListSerializer(u_qs, many=True)
         return Response(serializer.data)
-
