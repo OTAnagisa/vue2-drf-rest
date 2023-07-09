@@ -57,7 +57,23 @@ class ProductAPIView(APIView):
         return Response(serializer.data)
 
     def post(self, request):
-        """保存処理"""
+        """新規作成"""
+        # TODO: シリアライザでバリデーションチェックを入れる
+        request_data = request.data
+        product = Product.objects.create(
+            name=request_data["name"],
+            category_id=request_data["category_id"],
+        )
+        ProductDetail.objects.create(
+            product=product,
+            amount=request_data["amount"],
+            brand_id=request_data["brand_id"],
+        )
+        return Response(status=HTTP_200_OK)
+
+    def put(self, request):
+        """更新処理"""
+        # TODO: シリアライザでバリデーションチェックを入れる
         request_data = request.data
         # 変更のあった商品
         changed_product_dict = request_data["changed_product_dict"]

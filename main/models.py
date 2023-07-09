@@ -65,9 +65,9 @@ class BaseModel(models.Model):
     def save(self, *args, **kwargs):
         """saveメソッドをオーバーライド"""
         # ログインユーザーを登録
-        login_user = UserUtil.get_login_user
-        self.created_user = self.created_user or login_user
-        self.updated_user = login_user
+        login_user = UserUtil.get_login_user()
+        self.created_user_id = getattr(self, "created_user_id") or login_user["id"]
+        self.updated_user_id = login_user["id"]
         super().save(*args, **kwargs)
 
     def __str__(self):
