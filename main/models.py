@@ -221,7 +221,7 @@ class Product(BaseModel):
     """商品"""
 
     # 商品名
-    name = models.CharField(max_length=50)
+    name = models.CharField(max_length=100)
     # 商品カテゴリ
     category = models.ForeignKey(ProductCategory, on_delete=models.PROTECT)
     # No
@@ -234,18 +234,6 @@ class Product(BaseModel):
 
     class Meta:
         db_table = "product"
-
-
-class ProductInventory(BaseModel):
-    """商品在庫"""
-
-    # 商品
-    product = models.ForeignKey(Product, on_delete=models.PROTECT, unique=True)
-    # 在庫数
-    inventory = models.IntegerField()
-
-    class Meta:
-        db_table = "product_inventory"
 
 
 class Prefecture(BaseModel):
@@ -286,8 +274,8 @@ class Store(BaseModel):
     name = models.CharField(max_length=100, default="")
     # 県
     prefecture = models.ForeignKey(Prefecture, on_delete=models.PROTECT)
-    # ブランド
-    brand = models.ForeignKey(Brand, on_delete=models.PROTECT)
+    # 業者
+    vendor = models.ForeignKey(Vendor, on_delete=models.PROTECT)
     # No
     no = models.IntegerField(unique=True)
 
@@ -307,6 +295,8 @@ class StoreProduct(BaseModel):
     store = models.ForeignKey(Store, on_delete=models.PROTECT)
     # 商品
     product = models.ForeignKey(Product, on_delete=models.PROTECT)
+    # 販売額（税抜き）
+    sales_amount = models.IntegerField()
 
     class Meta:
         db_table = "store_product"
@@ -318,13 +308,23 @@ class StoreProduct(BaseModel):
         ]
 
 
+class ProductInventory(BaseModel):
+    """店舗商品在庫"""
+
+    # 商品
+    product = models.ForeignKey(StoreProduct, on_delete=models.PROTECT, unique=True)
+    # 在庫数
+    inventory = models.IntegerField()
+
+    class Meta:
+        db_table = "product_inventory"
+
+
 class ProductDetail(BaseModel):
     """商品詳細"""
 
     # 商品
     product = models.ForeignKey(Product, on_delete=models.PROTECT, unique=True)
-    # 出品業者
-    vendor = models.ForeignKey(Vendor, on_delete=models.PROTECT, null=True)
     # 金額
     amount = models.IntegerField()
     # ブランド
