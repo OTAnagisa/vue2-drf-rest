@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'sequences.apps.SequencesConfig',
     'rest_framework',
     'rest_framework.authtoken',
     'main',
